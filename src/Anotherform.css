@@ -1,0 +1,39 @@
+.big__form {
+    position: absolute;
+    margin-left: 9.8%;
+    margin-top: 10px
+}
+
+.comment__form {
+    width: 1020px;
+    height: 70px;
+    border-radius: 20px
+}
+
+.comment__form:focus {
+    outline: none;
+}
+
+.select__sec1 {
+    width: 454px;
+    height: 30px;
+}
+
+.select__sec2 {
+    width: 458px;
+    height: 30px;
+}
+
+.button {
+    position: relative;
+    margin-left: 10%;
+    margin-top: 120px;
+}
+
+.button__sub {
+    width: 100px;
+    background-color: rgb(80, 80, 212);
+    color: white;
+    height: 40px;
+    border-radius: 10px
+}

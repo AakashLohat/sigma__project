@@ -1,0 +1,45 @@
+.main__section {
+    height: 800px;
+    overflow-y: hidden;
+    position: relative;
+    margin-left: 10%;
+}
+
+.something {
+    height: 30px;
+    width: 454px;
+    margin-top: 8%;
+    margin-left: 10%;
+}
+
+.error {
+    color: red;
+}
+
+.name {
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 10%;
+}
+
+.name__sec {
+    width: 20%;
+    margin-left: 45%;
+    margin-top: -49px
+}
+
+.input__sec {
+    width: 450px;
+    height: 24px;
+}
+
+.mob__sec {
+    margin-top: 8px;
+    margin-left: 10%;
+}
+
+.add__sec1 {
+    position: absolute;
+    margin-left: 45%;
+    margin-top: -52px;
+}
